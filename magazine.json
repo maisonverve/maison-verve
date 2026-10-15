@@ -1,9 +1,3 @@
 {
-  "issues": [
-    {"id":"issue-001","number":"01","date":"OCTOBER 2026","title":"THE ART OF THE EDIT","subtitle":"An inaugural collection of fashion, beauty and the objects we keep.","cover":"https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=1400&q=85","articles":[
-      {"category":"FASHION","title":"A Study in Elegance","excerpt":"On finding a signature in a world of changing trends.","image":"https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1200&q=85","body":"A signature style is not built overnight. It takes shape through the details we return to, the silhouettes we remember and the pieces we choose to keep.\n\nThis is sample editorial writing. Replace it with your own voice before publishing your first issue."},
-      {"category":"JEWELLERY","title":"Objects of Affection","excerpt":"The stories that make a jewel precious.","image":"https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=1200&q=85","body":"Jewellery is a form of memory. A pendant or ring can hold a story far beyond its materials.\n\nThis is sample editorial writing. Replace it with your own voice."},
-      {"category":"BEAUTY","title":"The Beauty Notes","excerpt":"Small rituals and a considered approach to beauty.","image":"https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=1200&q=85","body":"Beauty can be a practice of attention: a texture, a scent, a familiar ritual.\n\nThis is sample editorial writing. Replace it with your own voice."}
-    ]}
-  ]
+  "issues": []
 }
