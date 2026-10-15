@@ -1,3 +1,18 @@
+{
+  "issues": [
+    {
+      "id": "issue-002",
+      "number": "002",
+      "date": "JULY 2026",
+      "title": "THE COUTURE ISSUE",
+      "subtitle": "Beyond the runway lies a world of artistry, precision and tradition. From the timeless elegance of Chanel to the extraordinary craftsmanship of Parisian ateliers, haute couture represents fashion in its most expressive form.\n\nThis issue revisits the collections, silhouettes and creative visions that have shaped fashion history, celebrating the enduring beauty of pieces designed to transcend time.",
+      "cover": "https://isabellata.github.io/maison-verve/3cb7d583b6749cfce21398c4fc971384.jpg",
+      "articles": [
+        {
+          "category": "FASHION",
+          "title": "The Art of Couture",
+          "excerpt": "From Chanel's iconic silhouettes to the intricate craftsmanship of Parisian ateliers, an exploration of the collections and creative legacies that transformed fashion into art.",
+          "image": "https://isabellata.github.io/maison-verve/3cb7d583b6749cfce21398c4fc971384.jpg",
           "body": "The Art of Couture\n\nAn exploration of the craftsmanship, creativity and timeless elegance that define haute couture.\n\nIn a world where fashion moves at an increasingly rapid pace, haute couture remains an extraordinary expression of patience, artistry and imagination. Beyond the spectacle of the runway lies a tradition built upon meticulous craftsmanship, where each garment tells a story of creativity and dedication.\n\nFew names embody this philosophy quite like Chanel.\n\nWhen Gabrielle Chanel introduced her vision of modern elegance, she challenged the conventions of women's fashion. Her designs favoured freedom of movement, refined simplicity and an understated approach to luxury. The little black dress, the tweed suit and the house's signature use of pearls became symbols of an aesthetic that would influence generations.\n\nDecades later, Karl Lagerfeld reinterpreted these foundations, transforming Chanel's established codes into a constantly evolving visual language. His runway collections brought together tradition and modernity, often presenting familiar silhouettes through unexpected fabrics, proportions and elaborate settings.\n\nThe Chanel runways of the 1990s remain particularly memorable. Tailored tweed jackets, layered jewellery, delicate embellishments and confident silhouettes reflected an era in which fashion embraced both extravagance and individuality.\n\nYet what makes haute couture remarkable extends far beyond its appearance.\n\nWithin the ateliers, garments are brought to life through hours of careful work. Embroidery, hand-sewn details, intricate draping and precise construction transform an initial sketch into something extraordinary. Every stitch contributes to a larger artistic vision, preserving techniques that have been refined over generations.\n\nThis devotion to craftsmanship is what distinguishes couture from the fleeting nature of trends. While silhouettes evolve and creative directors introduce new perspectives, the value of artistry remains constant.\n\nToday, archival couture continues to inspire contemporary designers, collectors and fashion enthusiasts. Collections once celebrated on the runway are revisited through exhibitions, editorial photography and renewed appreciation for the history behind each garment.\n\nPerhaps the true beauty of couture lies in this ability to connect past and present. It is not simply clothing created for a particular season, but an expression of creativity that continues to hold meaning long after its original debut.\n\nIn fashion, trends may come and go. Craftsmanship, however, has a way of remaining timeless."
         }
       ]
