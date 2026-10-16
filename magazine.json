@@ -1,8 +1,8 @@
 {
   "issues": [
     {
-      "id": "issue-006",
-      "number": "006",
+      "id": "issue-007",
+      "number": "007",
       "date": "OCTOBER 2026",
       "title": "THE BEAUTY OF AUTUMN",
       "subtitle": "The Autumn Edit. From berry-stained lips and softly smoky eyes to the timeless glamour of red lipstick and the intimate ritual of getting ready, a celebration of beauty, nostalgia and the changing season.",
@@ -32,8 +32,8 @@
       ]
     },
     {
-      "id": "issue-005",
-      "number": "005",
+      "id": "issue-006",
+      "number": "006",
       "date": "SEPTEMBER 2026",
       "title": "THE RIVIERA",
       "subtitle": "La Dolce Vita. From the sun-drenched harbours of Portofino to the timeless glamour of Capri and Saint-Tropez, an exploration of Mediterranean elegance, vintage resort style and the art of living beautifully.",
@@ -63,8 +63,8 @@
       ]
     },
     {
-      "id": "issue-004",
-      "number": "004",
+      "id": "issue-005",
+      "number": "005",
       "date": "AUGUST 2026",
       "title": "THE JEWELLERY",
       "subtitle": "Objects of Desire. An exploration of the jewels that became icons, the extraordinary craftsmanship behind their creation, and the women whose stories made them unforgettable. From Cartier’s legendary Panthère to the enduring sentiment of heirlooms, this issue celebrates jewellery as art, memory and a timeless expression of individuality.",
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "id": "issue-003",
-      "number": "003",
+      "id": "issue-004",
+      "number": "004",
       "date": "JULY 2026",
       "title": "THE COUTURE",
       "subtitle": "Beyond the runway lies a world of artistry, precision and tradition. From the timeless elegance of Chanel to the extraordinary craftsmanship of Parisian ateliers, haute couture represents fashion in its most expressive form.\n\nThis issue revisits the collections, silhouettes and creative visions that have shaped fashion history, celebrating the enduring beauty of pieces designed to transcend time.",
@@ -111,8 +111,8 @@
       ]
     },
     {
-      "id": "issue-002",
-      "number": "002",
+      "id": "issue-003",
+      "number": "003",
       "date": "JUNE 2026",
       "title": "THE ARCHIVE",
       "subtitle": "There is something captivating about an era of fashion that continues to influence the present. From the effortless allure of Kate Moss to the unforgettable runways of the 1990s and early 2000s, this issue revisits the images, silhouettes and moments that defined a generation.\n\nAn appreciation of the past, and the beauty of what remains timeless.",
@@ -128,8 +128,8 @@
       ]
     },
     {
-      "id": "issue-001",
-      "number": "001",
+      "id": "issue-002",
+      "number": "002",
       "date": "MAY 2026",
       "title": "THE ART OF EFFORTLESS STYLE",
       "subtitle": "The Art of Effortless Style. From Carolyn Bessette-Kennedy’s understated elegance to Isabel Marant’s bohemian spirit, an exploration of personal style, designer archives and the spaces where fashion meets architecture.",
@@ -162,8 +162,47 @@
           "excerpt": "Why the most memorable wardrobes are built around individuality rather than passing trends.",
           "image": "https://maisonverve.github.io/maison-verve/may-style-1.jpg",
           "body": "Style Is Personal, Trends Are Temporary\n\nFashion changes constantly. One season celebrates minimalism, the next embraces colour, embellishment or a particular silhouette. Trends offer inspiration, but personal style begins when we decide which of those ideas actually belong in our wardrobes.\n\n[[image:https://maisonverve.github.io/maison-verve/may-style-2.jpg]]\n\nToday, inspiration is everywhere. A single scroll can introduce a new aesthetic, a new shopping list and a new idea of what it means to dress well. Yet the more quickly these trends arrive, the more valuable it becomes to understand our own taste.\n\nConsider Carolyn Bessette-Kennedy’s restrained tailoring or Isabel Marant’s relaxed, embroidered silhouettes. Their approaches were very different, but both felt distinctive because they expressed a point of view rather than a desire to resemble everyone else.\n\n[[image:https://maisonverve.github.io/maison-verve/may-style-3.jpg]]\n\nDeveloping personal style rarely happens overnight. It grows through the pieces we return to, the colours we instinctively choose and the combinations that make us feel comfortable. Sometimes it means following a trend. Sometimes it means ignoring one completely.\n\nA beautifully tailored blazer, a favourite pair of shoes or a dress worn again and again can become more meaningful than the latest must-have item. The value lies not in how new something is, but in how naturally it fits into our lives.\n\nPerhaps the most elegant approach to fashion is to remain curious without losing ourselves in what is fashionable. Trends can introduce us to new possibilities. Personal style is what allows us to make them our own."
+ 
+      ]
+    },
+    {
+      "id": "issue-april-2026",
+      "number": "001",
+      "date": "APRIL 2026",
+      "title": "THE SPRING AWAKENING",
+      "subtitle": "On the beauty of beginnings, slow mornings, spring dressing, fresh fragrances and rooms that open onto the garden.",
+      "cover": "https://maisonverve.club/april-cover.jpg",
+      "articles": [
+        {
+          "category": "LIFESTYLE & CULTURE",
+          "title": "The Art of Living Slowly",
+          "excerpt": "On the quiet rituals of spring and finding beauty in the everyday.",
+          "image": "https://maisonverve.club/april-gwyneth.jpg",
+          "body": "The Art of Living Slowly\n\nOn the quiet rituals of spring and finding beauty in the everyday.\n\nThere is something about spring that makes the simplest moments feel a little more beautiful. The mornings grow lighter, windows are left open for longer, and fresh flowers begin to find their way into every corner of the home. After the stillness of winter, life seems to return to its natural rhythm.\n\nIn a world that constantly encourages us to move faster, there is a certain elegance in choosing to slow down.\n\nGwyneth Paltrow's approach to gardening and home life captures this sentiment beautifully. Her appreciation for growing fresh produce, spending time outdoors and creating thoughtful spaces reflects a lifestyle centred on everyday pleasures. It is not necessarily about living in the countryside or having an immaculate garden, but about finding enjoyment in the things we often overlook.\n\n[[image:https://maisonverve.club/april-slow-2.jpg]]\n\nPerhaps that means starting the morning without immediately reaching for a phone, taking the time to prepare breakfast, or bringing home a small bunch of flowers simply because they are in season. These gestures may seem insignificant, yet they have a way of making ordinary days feel more intentional.\n\nSpring dressing follows a similar philosophy. A crisp white shirt, a lightweight cardigan or a simple cotton dress requires little effort, yet feels entirely appropriate for the season. The same simplicity extends into the home, where fresh greenery, natural fabrics and sunlight can transform a room without the need for anything extravagant.\n\n[[image:https://maisonverve.club/april-slow-1.jpg]]\n\nThere is also something particularly satisfying about the act of growing things. Whether it is a garden filled with roses or a few herbs resting on a kitchen windowsill, gardening encourages patience. It reminds us that not everything needs to happen immediately, and that some of the most beautiful things take time.\n\nUltimately, the art of living slowly is not about doing less for the sake of it. It is about being more present in what we choose to do.\n\nAnd perhaps that is what makes spring so special. It offers a gentle reminder that beauty does not always need to be sought after. Sometimes, it is already there, in the morning light, the scent of fresh flowers, or the simple pleasure of an afternoon spent outdoors."
+        },
+        {
+          "category": "FASHION",
+          "title": "The Romance of Spring Dressing",
+          "excerpt": "On delicate fabrics, effortless silhouettes, and the quiet charm of a spring wardrobe.",
+          "image": "https://maisonverve.club/april-fashion-1.jpg",
+          "body": "The Romance of Spring Dressing\n\nOn delicate fabrics, effortless silhouettes, and the quiet charm of a spring wardrobe.\n\nThere is a particular kind of elegance that returns with spring. Heavy coats are put away, layers become lighter, and getting dressed begins to feel less complicated. It is the season of crisp cotton shirts, delicate lace, soft knitwear and dresses that move naturally with the breeze.\n\nPerhaps the most beautiful thing about spring dressing is its simplicity.\n\nA white cotton dress, for instance, has an appeal that never seems to fade. Whether finished with embroidery, subtle pleating or a simple silhouette, it captures the effortless femininity of the season. Worn with ballet flats, a woven bag and delicate gold jewellery, it requires very little else.\n\n[[image:https://maisonverve.club/april-fashion-2.jpg]]\n\nThere is also a renewed appreciation for texture. Broderie anglaise, fine linen, lightweight cashmere and silk bring interest to an outfit without the need for bold prints or excessive accessories. These are fabrics that feel just as beautiful as they look, making even the simplest pieces appear considered.\n\nThe spring wardrobe is not necessarily defined by an entirely new collection of clothes, but by the way familiar pieces are worn. A cardigan draped over the shoulders, a silk scarf tied loosely around the neck, or a pair of tailored trousers styled with a romantic blouse can make an everyday outfit feel quietly special.\n\n[[image:https://maisonverve.club/april-fashion-3.jpg]]\n\nColour, too, becomes softer. Ivory, butter yellow, pale blue and gentle shades of pink sit alongside natural beige and warm white. Rather than competing for attention, these colours complement one another, creating a wardrobe that feels fresh without being overly delicate.\n\nWhat makes this approach to dressing so appealing is that it leaves room for personality. A vintage blouse, a favourite pair of ballet flats or a piece of jewellery worn every day can become part of someone's signature style. There is no need to follow every new trend when the most memorable outfits often come from knowing what feels right.\n\nUltimately, spring dressing is about rediscovering the pleasure of getting dressed. It is romantic without being excessive, polished without appearing too deliberate, and feminine without following a particular formula.\n\nSometimes, all it takes is a beautiful white shirt, a little sunlight and the feeling that a new season has begun."
+        },
+        {
+          "category": "BEAUTY",
+          "title": "What Does Spring Smell Like?",
+          "excerpt": "On fresh beginnings, delicate fragrances, and the scents that define a season.",
+          "image": "https://maisonverve.club/april-perfume-1.jpg",
+          "body": "What Does Spring Smell Like?\n\nOn fresh beginnings, delicate fragrances, and the scents that define a season.\n\nEvery season has its own atmosphere, but spring is perhaps the most difficult to capture. It is not defined by a single scent, but by a collection of small, familiar moments. The smell of freshly cut grass, flowers opening in the garden, clean sheets drying beside an open window, or the freshness that lingers in the air after a morning shower.\n\nUnlike the rich, comforting fragrances often associated with winter, spring calls for something lighter. Perfumes become less about making an entrance and more about leaving a subtle impression. A fragrance that feels natural, fresh and almost effortless.\n\nGreen notes are particularly evocative of this time of year. Fig leaves, fresh herbs and delicate tea accords bring to mind gardens beginning to bloom. Citrus adds a sense of brightness, with bergamot, mandarin and lemon creating that unmistakable feeling of a fresh morning.\n\n[[image:https://maisonverve.club/april-perfume-2.jpg]]\n\nFlorals, of course, have always belonged to spring. Yet the most interesting interpretations are often the least obvious. Rather than overly sweet bouquets, notes of lily of the valley, iris and soft rose can feel airy and understated, capturing the delicacy of flowers without becoming overpowering.\n\nThere is also something appealing about fragrances that sit close to the skin. Soft musks, subtle woods and clean, almost soapy notes create an intimate quality, the kind of scent that becomes associated with a person rather than a perfume bottle.\n\nPerhaps this is why spring fragrances feel so personal. They are connected to memories of particular places and moments: a garden after rain, a favourite holiday, or the first afternoon warm enough to spend entirely outdoors.\n\n[[image:https://maisonverve.club/april-perfume-3.jpg]]\n\nAnd while perfume offers one way to capture the season, some of its most beautiful scents cannot be bottled. Fresh flowers on a bedside table, a linen shirt just taken from the wardrobe, or the unmistakable smell of greenery after rainfall can be equally memorable.\n\nUltimately, the scent of spring is less about a particular fragrance and more about a feeling. Lightness, freshness and the quiet excitement of something beginning again.\n\nIt is the kind of beauty that never needs to announce itself.\n\nTHE SPRING FRAGRANCE EDIT\n\nDiptyque Philosykos. The green garden: fig leaves, milky fig and soft woods, reminiscent of a sunlit afternoon beneath a fig tree.\n\nJo Malone London Wild Bluebell. The spring bloom: dewy bluebells and soft musk, delicate and quietly romantic.\n\nMaison Francis Kurkdjian Aqua Universalis. The fresh linen: luminous citrus, white flowers and clean musks, crisp and understated.\n\nLe Labo Thé Matcha 26. The quiet afternoon: a soft tea-inspired scent with a comforting, close-to-skin quality."
+        },
+        {
+          "category": "SPACES & DESIGN",
+          "title": "A Room with a Garden View",
+          "excerpt": "On light-filled interiors, the romance of garden rooms, and bringing the outdoors inside.",
+          "image": "https://maisonverve.club/april-room-1.jpg",
+          "body": "A Room with a Garden View\n\nOn light-filled interiors, the romance of garden rooms, and bringing the outdoors inside.\n\nThere is something particularly beautiful about a room that opens onto a garden. Perhaps it is the way sunlight moves across the floor throughout the day, or how the greenery outside becomes part of the interior itself. In spring, when everything begins to bloom, the relationship between a home and its surroundings feels especially meaningful.\n\nFor centuries, gardens have influenced the way homes are designed. From the conservatories of English country houses to the elegant French doors of European villas, architecture has long sought to create a connection between indoor comfort and the natural world.\n\nToday, that connection remains just as appealing.\n\n[[image:https://maisonverve.club/april-room-2.jpg]]\n\nA garden room does not necessarily require grand architecture or an elaborate glass conservatory. Sometimes, a beautiful view, a comfortable armchair positioned beside a window, or a table decorated with freshly cut flowers is enough to transform the atmosphere of a space.\n\nNatural materials play an important role in creating this feeling. Linen curtains, wooden furniture, woven baskets and soft cotton upholstery introduce texture without overwhelming a room. Paired with a palette of ivory, warm beige, muted green and gentle floral tones, they create interiors that feel both elegant and welcoming.\n\nThere is also a certain charm in allowing a room to feel imperfect. A stack of books left on a side table, a vase filled with flowers gathered from the garden, or an antique chair that has been passed down through generations can bring personality to a space. These details make a home feel collected over time rather than decorated all at once.\n\n[[image:https://maisonverve.club/april-room-3.jpg]]\n\nPerhaps the most interesting aspect of garden-inspired interiors is how naturally they change with the seasons. In spring, branches of blossom and fresh greenery bring a sense of renewal. During summer, open windows and lightweight fabrics create an airy atmosphere. As autumn arrives, deeper colours and warmer textures gradually take their place.\n\nThe most beautiful rooms are often those that allow this evolution to happen.\n\nUltimately, a room with a garden view is about more than the view itself. It is about creating a space that encourages us to pause, appreciate our surroundings and enjoy the quieter moments of everyday life.\n\nAnd sometimes, the simplest luxury is a comfortable chair, an open window and a garden beginning to bloom."
         }
       ]
     }
   ]
 }
+
